@@ -1,59 +1,113 @@
-# CoffeeShopLanding
+# ☕ Andean Coffee
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.22.
+Landing Page premium diseñada para representar una cafetería de especialidad inspirada en la naturaleza andina. Este proyecto forma parte de mi portafolio profesional y tiene como objetivo fortalecer mis habilidades en desarrollo Frontend, diseño UX/UI y arquitectura de aplicaciones con Angular.
 
-## Development server
+---
 
-To start a local development server, run:
+## 📌 Descripción
 
-```bash
-ng serve
+**Andean Coffee** es una landing page moderna con un enfoque editorial, minimalista y premium. La experiencia visual está diseñada para transmitir exclusividad, naturaleza y modernidad mediante una interfaz elegante, animaciones suaves y una composición inspirada en revistas de alta gama.
+
+El objetivo principal es guiar al usuario hacia una acción concreta:
+
+> **Reservar una experiencia mediante WhatsApp.**
+
+---
+
+## 🎯 Objetivos del proyecto
+
+* Mejorar mis habilidades con Angular.
+* Practicar Tailwind CSS 4.
+* Aplicar principios de UX/UI.
+* Construir componentes reutilizables.
+* Crear un proyecto de nivel profesional para mi portafolio.
+* Mantener una arquitectura limpia y escalable.
+
+---
+
+## 🚀 Tecnologías
+
+* Angular 19
+* TypeScript
+* Tailwind CSS 4
+* HTML5
+* CSS3
+* Angular Animations
+
+---
+
+## 🎨 Concepto de Diseño
+
+El proyecto está inspirado en tendencias modernas de diseño web:
+
+* Editorial Design
+* Minimalismo Orgánico
+* Grid Breaking
+* Profundidad Visual
+* Fotografía inmersiva
+* Animaciones Premium
+
+---
+
+## ✨ Características
+
+* Responsive Design
+* Componentes reutilizables
+* Arquitectura escalable
+* Código limpio
+* Buenas prácticas
+* Optimización para portafolio
+
+---
+
+## 📂 Estructura del proyecto
+
+```text
+src/
+│
+├── app/
+│   ├── core/
+│   ├── shared/
+│   ├── features/
+│   └── layouts/
+│
+├── assets/
+└── styles/
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 📈 Estado del proyecto
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+🚧 En desarrollo
 
-```bash
-ng generate component component-name
-```
+Actualmente se está construyendo la primera versión de la landing page.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+---
 
-```bash
-ng generate --help
-```
+## 🗺 Roadmap
 
-## Building
+* [x] Planificación
+* [x] Arquitectura del proyecto
+* [x] Configuración Angular
+* [x] Configuración Tailwind CSS
+* [ ] Design System
+* [ ] Navbar
+* [ ] Hero Section
+* [ ] Nuestra Filosofía
+* [ ] Experiencia Sensorial
+* [ ] Café Destacado
+* [ ] Proceso Artesanal
+* [ ] Testimonios
+* [ ] CTA Final
+* [ ] Footer
+* [ ] Optimización
+* [ ] Deploy
 
-To build the project run:
+---
 
-```bash
-ng build
-```
+## 👨‍💻 Autor
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+**Aile**
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+Proyecto desarrollado como parte de mi portafolio de Ingeniería de Sistemas.
