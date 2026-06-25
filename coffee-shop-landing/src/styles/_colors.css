@@ -1,0 +1,18 @@
+:root {
+  /* Brand */
+  --color-primary: #7A4E2D;
+  --color-primary-light: #A67C52;
+  --color-accent: #D6B37A;
+
+  /* Backgrounds */
+  --color-background-dark: #0F0F0F;
+  --color-background-light: #F8F6F3;
+
+  /* Text */
+  --color-text-dark: #1E1E1E;
+  --color-text-light: #FFFFFF;
+  --color-text-muted: #8C8C8C;
+
+  /* Borders */
+  --color-border: #E5E5E5;
+}
